@@ -1,0 +1,6 @@
+.bg-img-1
+{
+    background-image: url(../playstation/img/jumbo-bg.png);
+    height: 600px;
+    background-size: cover;
+}
