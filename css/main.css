@@ -18,3 +18,9 @@ img{
 .max-width-560{
     max-width: 560px;
 }
+.f-s-8{
+font-size: 8rem;
+}
+footer ul {
+    list-style: none;
+}
