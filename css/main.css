@@ -5,3 +5,13 @@
     background-size: cover;
     background-position: center;
 }
+.bg-img-2
+{
+    background-image: url(../playstation/img/it-takes-two-hero-banner-desktop.jpg);
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+}
+img{
+    width: 100%;
+}
