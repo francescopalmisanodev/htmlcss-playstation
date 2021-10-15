@@ -1,8 +1,10 @@
 body{
     padding-top: 122px;
-}
-header .navbar{
     font-size:20px;
+}
+h2{
+    font-size: 50px;
+    font-weight:bold;
 }
 header .navbar .fa-angle-down{
     margin-left: 0.5rem;
@@ -16,19 +18,26 @@ header .navbar .fa-magnifying-glass{
 .bg-img-1
 {
     background-image: url(../playstation/img/jumbo-bg.png);
-    height: 600px;
-    background-size: cover;
+    height: 600px;    
     background-position: center;
 }
+
+
 .bg-img-2
 {
     background-image: url(../playstation/img/it-takes-two-hero-banner-desktop.jpg);
-    height: 600px;
+    height: 650px;
     background-size: cover;
     background-position: center;
 }
 img{
     width: 100%;
+}
+.round-img{
+    border-radius: 14%;
+}
+.op-disabled{
+    opacity: 0.6;
 }
 .max-width-560{
     max-width: 560px;
