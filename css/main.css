@@ -1,3 +1,18 @@
+body{
+    padding-top: 122px;
+}
+header .navbar{
+    font-size:20px;
+}
+header .navbar .fa-angle-down{
+    margin-left: 0.5rem;
+}
+header .navbar li{
+    padding: 0 0.7rem;
+}
+header .navbar .fa-magnifying-glass{
+    font-size:26px;
+}
 .bg-img-1
 {
     background-image: url(../playstation/img/jumbo-bg.png);
@@ -23,4 +38,7 @@ font-size: 8rem;
 }
 footer ul {
     list-style: none;
+}
+.w80{
+    width: 80px;
 }
