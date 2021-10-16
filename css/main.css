@@ -51,3 +51,21 @@ footer ul {
 .w80{
     width: 80px;
 }
+.bg-1{
+    background: #363636;
+    color: white;
+}
+.bg-2{
+    background: #cd3d0f;
+}
+.bg-3{
+    background: #2d64e6;
+    color: white;
+}
+.bg-4{
+    background: #d9dadc;
+    color:#4876e3;
+}
+.bg-5{
+    background: #161c3b;
+}
